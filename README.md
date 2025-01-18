@@ -22,23 +22,23 @@
 - ✅ Completed a Bachelor's Degree in Information Systems  
 - 📜 Certified in **Electron.js Development**  
 - 🔗 Successfully integrated **OpenWeatherMap API** into a weather app  
-- 🛠️ Developed an e-commerce platform, **5edemni**  
+- 🛠️ Developed an e-commerce platform,   
 
 
 ## 📂 Featured Repositories
-- [SALCO](https://github.com/yourusername/salco) - A pharmacy management system  
-- [5edemni](https://github.com/yourusername/5edemni) - A Fiverr clone for freelancers  
-- [POS System](https://github.com/yourusername/pos-system) - React.js-based point of sale system  
+- [SALCO](https://github.com/Nadjibochacha/front-app) - A pharmacy management system  
+- [ProWare Agency](https://github.com/Nadjibochacha/proware-app) - Digital solutions Agency   
+- [e-commerce app](https://github.com/Nadjibochacha/client) - E-commerce website  
 
 
 ## 📈 GitHub Stats
-![Najib's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Najib's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadjibochacha&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadjibochacha&layout=compact&theme=radical)](https://github.com/nadjibochacha)
 
 
 ## 📬 Let's Connect
-- LinkedIn: MOHAMMED NADJIB CHACHA (https://www.linkedin.com/in/mohammed-nadjib-chacha-03b14129b)  
-- Instagram: MED DEVdz (https://www.instagram.com/med_devdz/)  
-- Email: ndjbchch@gmail.com (mailto:ndjbchch@gmail.com)  
+- LinkedIn: [MOHAMMED NADJIB CHACHA](https://www.linkedin.com/in/mohammed-nadjib-chacha-03b14129b)  
+- Instagram: [MED DEVdz](https://www.instagram.com/med_devdz/)  
+- Email: [ndjbchch@gmail.com](mailto:ndjbchch@gmail.com)  
 
